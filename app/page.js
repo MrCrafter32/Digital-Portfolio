@@ -269,7 +269,7 @@ export default function App() {
             <div className="flex space-x-6 mt-10">
               <SocialLink href="mailto:jagadeesh.duggirala22@st.niituniversity.in" icon={Mail} />
               <SocialLink href="https://github.com/MrCrafter32" icon={Github} />
-              <SocialLink href="www.linkedin.com/in/jagadeesh-chandra-duggirala-8aa715251" icon={Linkedin} />
+              <SocialLink href="https://www.linkedin.com/in/jagadeesh-chandra-duggirala-8aa715251/" icon={Linkedin} />
               <SocialLink href="https://mrcrafter.tech" icon={Code} />
             </div>
           </div>
